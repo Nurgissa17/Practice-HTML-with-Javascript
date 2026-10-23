@@ -30,4 +30,4 @@ Removed the last item:
 ![Task 5 - Remove](screenshots/task5_remove.png)
 
 ## Summary
-I learned how to use basics of using JavaScript. Learned how to change my HTML page using Javascript
+I created a profile using JavaScript. I used a form to update the profile and buttons to add and remove tasks. I learned how to change HTML elements using JavaScript
