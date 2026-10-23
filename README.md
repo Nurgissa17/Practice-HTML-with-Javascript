@@ -11,6 +11,7 @@ I calculated the age using the current year and counted the hobbies. I displayed
 
 ### Task 3. HTML Form Setup
 I created inputs for username and birth year and a submit button.
+
 ![Task 3](screenshots/task3.png)
 
 ### Task 4. Event Listener
