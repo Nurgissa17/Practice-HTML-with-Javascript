@@ -22,9 +22,11 @@ I added a submit event listener to update the name and birth year in `userProfil
 I created a task list. The Add Item button adds a new item, and the Remove Item button removes the last item.
 
 Added an item:
+
 ![Task 5 - Add](screenshots/task5_add.png)
 
 Removed the last item:
+
 ![Task 5 - Remove](screenshots/task5_remove.png)
 
 ## Summary
