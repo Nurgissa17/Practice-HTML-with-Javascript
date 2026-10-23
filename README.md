@@ -1,5 +1,3 @@
-# Assignment 5. JavaScript Basics
-
 Name: Nurgissa Pernebay  
 Group: SE-2539
 
@@ -33,12 +31,10 @@ I added a submit event listener to update the name and birth year in `userProfil
 I created a task list. The Add Item button adds a new item, and the Remove Item button removes the last item.
 
 Added an item:
-
 ![Task 5 - Add](screenshots/task5_add.png)
 
 Removed the last item:
-
 ![Task 5 - Remove](screenshots/task5_remove.png)
 
 ## Summary
-First, I created a profile object and displayed its information. Then I added a form to update the profile and buttons to add and remove list items.
+I learned how to use basics of using JavaScript. Learned how to change my HTML page using Javascript
